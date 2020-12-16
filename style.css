@@ -227,6 +227,10 @@
     background: #125688;
     color: white;
   }
+  .fa-globe {
+    background: #4d0000;
+    color: white;
+  }
   #social
   {
       display: flex;

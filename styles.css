@@ -111,12 +111,16 @@ body
   }
   
   .fa-instagram {
-    background: #125688;
+    background: #dd1763;
     color: white;
   }
   
   .fa-github {
-    background: #125688;
+    background: rgb(58, 58, 58);
+    color: white;
+  }
+  .fa-globe {
+    background: #4d0000;
     color: white;
   }
   #social
