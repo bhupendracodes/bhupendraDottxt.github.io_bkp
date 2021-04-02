@@ -1,7 +1,7 @@
 function init()
 {
-    calculate(2020);
-    document.getElementById("cyear").innerHTML="YEAR - 2020";
+    calculate(2021);
+    document.getElementById("cyear").innerHTML="YEAR - 2021";
 }
 
 function submit()
